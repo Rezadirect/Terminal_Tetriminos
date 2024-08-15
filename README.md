@@ -14,10 +14,10 @@ Experience the thrill of Tetris right in your command line interface! This minim
 - **Simple Yet Captivating Gameplay**: Easy to play, challenging to master! 
 
 ### Getting Started
-To get started with **Terminal Tetris**, clone the repository and run the script in your terminal. Make sure you have Python and the `colorama` library installed. You can install `colorama` using pip:
+To get started with **Terminal Tetris**, clone the repository and run the script in your terminal. Make sure you have Python and the required libraries installed. You can install them using pip:
 
 ```bash
-pip install colorama
+pip install colorama keyboard
 ```
 
 Then run the game:
