@@ -30,6 +30,9 @@ python terminal_tetris.py
 - **Arrow Keys**: Move tetrominoes left, right, or drop them down.
 - **Up Arrow**: Rotate the current tetromino.
 
+### Demo Image
+![image](https://github.com/user-attachments/assets/ac204e4a-6890-40f2-9adf-d3014b6d1eba)
+
 ### How to Contribute
 Feel free to fork the repository, create a new feature branch, and submit a pull request. Whether it's fixing bugs, adding new features, or enhancing colors and graphics, contributions are welcome!
 
