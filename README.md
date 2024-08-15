@@ -31,7 +31,7 @@ python terminal_tetris.py
 - **Up Arrow**: Rotate the current tetromino.
 
 ### Demo Image
-![image](https://github.com/user-attachments/assets/ac204e4a-6890-40f2-9adf-d3014b6d1eba)
+![image](https://github.com/user-attachments/assets/fef7a3f3-091c-4bbf-8db7-3dbcf31a6417)
 
 ### How to Contribute
 Feel free to fork the repository, create a new feature branch, and submit a pull request. Whether it's fixing bugs, adding new features, or enhancing colors and graphics, contributions are welcome!
